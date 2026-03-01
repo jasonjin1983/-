@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ad38f8f91ec291fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1225443558325320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a9c3d96ff9a294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-27/2.26日周四午盘_股侠小超超.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.26日周四午盘_股侠小超超"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a7e89748bff6f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "965a91ac215663de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85dd0e561a051b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a1adfa6220a79142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2b18723498e1f412",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70718ab16e435cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "539003d11aa7cace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c544422d14bc11c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-02-27/史诗级新题材：电算一体！两会新概念！-韭研公社.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "史诗级新题材：电算一体！两会新概念！-韭研公社 的反向链接列表"
+            }
+          },
+          {
+            "id": "f1f0e94047400710",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-02-27/史诗级新题材：电算一体！两会新概念！-韭研公社.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "史诗级新题材：电算一体！两会新概念！-韭研公社 的出链列表"
+            }
+          },
+          {
+            "id": "985f05d78c57a5fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eed33b7195e9ab53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0575dd2e1e93c0a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-02-27/史诗级新题材：电算一体！两会新概念！-韭研公社.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "史诗级新题材：电算一体！两会新概念！-韭研公社 的大纲"
+            }
+          },
+          {
+            "id": "f7d00293413f0661",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c3a9c3d96ff9a294",
+  "lastOpenFiles": [
+    "Clippings/desktop.ini",
+    "2026-02-27/2.27日周五午盘_ 股侠小超超.md",
+    "2026-02-27/六一中路午评.md",
+    "2026-02-27/史诗级新题材：电算一体！两会新概念！-韭研公社.md",
+    "2026-02-27/2.26日周四午盘_股侠小超超.md",
+    "2026-02-28.md",
+    "未命名.canvas",
+    "Clippings",
+    "2026-02-27/股痴流沙河.md",
+    "Clippings/股痴流沙河2026-02-26.md",
+    "Clippings/2.27日周五午盘_宏和科技(603256)股吧_东方财富网股吧.md",
+    "股痴流沙河.md",
+    "2026-02-27"
+  ]
+}
